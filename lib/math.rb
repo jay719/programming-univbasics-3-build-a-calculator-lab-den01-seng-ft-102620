@@ -16,7 +16,7 @@ def multiplication(num1, num2)
 num1 * num2
 end
 
-def modulo(num1, num2
+def modulo(num1, num2)
   num1.divmod(num2)
 end
 
