@@ -18,7 +18,7 @@ end
 
 def modulo(num1, num2)
 rn= num1/num2 
-rn
+rn%
 end
 
 def square_root(num)
